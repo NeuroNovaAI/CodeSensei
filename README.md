@@ -1,5 +1,5 @@
-# CodeSensei
-# 🤖 CodeReviewAI - Complete Build Guide
+
+# 🤖 CodeSensei - Complete Build Guide
 
 > An AI-powered code review assistant that provides intelligent feedback on pull requests. Built 100% free using open-source tools.
 
